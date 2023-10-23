@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPractice",
+            "request": "launch",
+            "mainClass": "ArrayPractice",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "Collatz",
+            "request": "launch",
+            "mainClass": "Collatz",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "DiceStats",
+            "request": "launch",
+            "mainClass": "DiceStats",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "Pi",
+            "request": "launch",
+            "mainClass": "Pi",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "COP3252_65966458"
+        },
+        {
+            "type": "java",
+            "name": "WebToPigLatin",
+            "request": "launch",
+            "mainClass": "WebToPigLatin",
+            "projectName": "COP3252_65966458",
+            "args": "page1.html pigpage1.html",
+            "cwd": "${workspaceFolder}/COP3252-Fall2023-Assignments/Assignment 4"
+        }
+    ]
+}
